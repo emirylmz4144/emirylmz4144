@@ -15,6 +15,7 @@
 <a href="https://www.linkedin.com/in/emir-y%C4%B1lmaz-428886237/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emir-y%C4%B1lmaz-428886237/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18133623/emir-y%c4%b1lmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18133623/emir-y%c4%b1lmaz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/emiryilmaz4144"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@emiryilmaz4144" height="30" width="40" /></a>
+<a href="https://www.instagram.com/emir.yilmaz4144/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="@emiryilmaz4144" height="30" width="40" /></a>
 
 </p>
 
