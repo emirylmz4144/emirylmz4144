@@ -28,3 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emirylmz4144" /></p>
 
+
+[![Ziyaretçi Sayısı](https://visitor-badge.glitch.me/badge?page_id=emirylmz4144.emirylmz4144)](https://github.com/emirylmz4144)
+
