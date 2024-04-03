@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emirylmz4144" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emirylmz4144" /></p>
+
+![Visitor Count](https://profile-counter.glitch.me/{emirylmz4144}/count.svg)
